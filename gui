@@ -1,4 +1,3 @@
-getgenv().dsaofihndsavousdnvoiusd:Remove()
 local tweenservice, runservice, uis, players, localplayer, camera, wtsp, wtvp, getplayers, findfirstchild, findfirstchildofclass, mouse, getchildren, getdescendants, isa, getpartsobscuringtarget, isfriendswith, random = game:GetService("TweenService"), game:GetService("RunService"), game.UserInputService, game.Players, game.Players.LocalPlayer, workspace.CurrentCamera, workspace.CurrentCamera.WorldToScreenPoint, workspace.CurrentCamera.WorldToViewportPoint, game.Players.GetPlayers, workspace.FindFirstChild, workspace.FindFirstChildOfClass, game.Players.LocalPlayer:GetMouse(), workspace.GetChildren, workspace.GetDescendants, workspace.IsA, workspace.CurrentCamera.GetPartsObscuringTarget, game.Players.LocalPlayer.IsFriendsWith, math.random
 local noclippedparts = {}
 local bodyparts = {"Head", "HumanoidRootPart", "Left Arm", "Left Leg", "Right Arm", "Right Leg"}
